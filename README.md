@@ -11,13 +11,13 @@ A lightweight 2D Game Engine.
   VEBasic - Similar to Unreal's Drag-drop Langauge.
 
 ## Included Programs
-  VE-VenillaEngine : The Compiler of all the files. <----- LINUX ONLY
-  VE-Graphical : The GUI Version of VE
-  VE-AutoTagger : The Terminal Text Editor based on VIM <----- LINUX ONLY
-  VE-GUITagger : The Desktop Variant of AutoTagger
-  Wayland-Protocols : These are not Necessarilly Required, More for Compatibillity Support. <----- LINUX ONLY
-  Visual Studio Compiler : <----- WINDOWS ONLY
-  G++ : For C++ Functions <----- LINUX and MACOS ONLY
+  VE-VenillaEngine : The Compiler of all the files. <----- LINUX ONLY<br>
+  VE-Graphical : The GUI Version of VE<br>
+  VE-AutoTagger : The Terminal Text Editor based on VIM <----- LINUX ONLY<br>
+  VE-GUITagger : The Desktop Variant of AutoTagger<br>
+  Wayland-Protocols : These are not Necessarilly Required, More for Compatibillity Support. <----- LINUX ONLY<br>
+  Visual Studio Compiler : <----- WINDOWS ONLY<br>
+  G++ : For C++ Functions <----- LINUX and MACOS ONLY<br>
 
 ## Installation (Linux and MacOS) 
   Use The Following Commands
