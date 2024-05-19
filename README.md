@@ -1,6 +1,6 @@
 # VenillaEngine-GIT
 A lightweight 2D Game Engine.<br>
-This is the Git Version. THIS IS THE BETA RELEASE
+This is the GIT Version
 
 ## Compatibillity Notices
 ***Due to Microsoft's Recent Poor decisions with Windows 11, VE will not recieve a Win11 Version as an act of Protest.***
@@ -8,7 +8,7 @@ This is the Git Version. THIS IS THE BETA RELEASE
 ***Windows 7, 8, 8.1, and Potentially Earlier Versions will be made.***
 
 ## Supported Scripting Languages
-  C++ - "ve.hpp" Includes Essential Functions
+  C++ - "ve.hpp" Includes Essential Functions<br>
   VEBasic - Similar to Unreal's Drag-drop Langauge.
 
 ## Included Programs
