@@ -19,18 +19,3 @@ This is the GIT Version
   Wayland-Protocols : These are not Necessarilly Required, More for Compatibillity Support. <----- LINUX ONLY<br>
   Visual Studio Compiler : <----- WINDOWS ONLY<br>
   G++ : For C++ Functions <----- LINUX and MACOS ONLY<br>
-
-## Installation (Linux and MacOS) 
-  Use The Following Commands
-  
-    git clone https://github.com/VenillaSH/VenillaEngine
-    ./install.sh
-    
-## Instalation (Windows 10)
-  Download the Version from _____ [INSERT LINK HERE WHEN COMPLETED]<br>
-
-    install.bat
-
-  Next, Run the .exe File
-
-    setup.exe
